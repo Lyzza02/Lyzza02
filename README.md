@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+My+GitHub+Profile)](https://git.io/typing-svg)
 ### Hi there, I'm Elyzza Jane 👋
 
 <!-- - 🔭 I’m currently working on ... -->
