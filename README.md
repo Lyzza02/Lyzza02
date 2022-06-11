@@ -56,8 +56,8 @@
 
 
 ## 🎯 Github Status
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Lyzza02&show_icons=true&theme=tokyonight" /></p>
-<p>&nbsp;<img align="center" width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzza02&layout=compact&theme=tokyonight&hide=c" /></p>
+<p><img align="left" width="41%" src="https://github-readme-stats.vercel.app/api?username=Lyzza02&show_icons=true&theme=tokyonight" /></p>
+<p>&nbsp;<img align="center" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lyzza02&layout=compact&theme=tokyonight&hide=c" /></p>
 
 ## Connect with me:
 <p align="left">
