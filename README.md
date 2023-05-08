@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lyzza02&label=Profile%20views&color=0e75b6&style=flat" alt="lyzza02" /> </p>
 
 ## 👋 About Me
-- 🌱 I’m currently learning **Kotlin (Android Studio)**
+- 🌱 I’m currently learning **Laravel**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I need motivation to work**
 <!-- - 🔭 I’m currently working on ...
