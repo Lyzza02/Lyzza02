@@ -61,10 +61,10 @@
 
 ## Connect with me:
 <p align="left">
- <a href="https://www.instagram.com/elyzzaabrigo024/">
+ <a href="https://www.instagram.com/elyzzajane__/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-  <a href = "https://www.linkedin.com/in/elyzza-jane-abrigo-ab7976147">
+  <a href = "https://www.linkedin.com/in/elyzza-jane-abrigo">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
