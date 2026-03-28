@@ -61,9 +61,9 @@
 
 ## Connect with me:
 <p align="left">
- <a href="https://www.instagram.com/elyzzajane__/">
+ <!-- <a href="https://www.instagram.com/elyzzajane__/">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
+  </a> -->
   <a href = "https://www.linkedin.com/in/elyzza-jane-abrigo">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
